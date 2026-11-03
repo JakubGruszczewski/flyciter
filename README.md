@@ -98,6 +98,8 @@ The flights come to €106. Under the Valencia to Barcelona leg sits the framed 
 
 There's nothing to install. The site works in the phone's browser, in light and dark mode, in seven languages (English, Polish, German, French, Spanish, Italian and Ukrainian) and with prices in EUR, GBP, USD, PLN or CHF. **Share** on a trip copies a link to it, a text with the tickets, or a postcard image you can paste into a chat.
 
+<img src="screenshots/postcard-krakow-bordeaux.png" width="480" alt="A FlyCiter travel postcard for the Kraków to Bordeaux weekend: a map of Europe with the route through Rome and Marseille, a Bordeaux stamp dated 5 December 2026, every flight and the FlixBus between Rome's airports with times and prices, €104 for the flights plus the easyJet fare, and a QR code that opens the offer.">
+
 ## What FlyCiter does not do
 
 **It doesn't sell tickets.** Every booking button leads to the airline's or FlixBus's own website, and you buy there on their terms. No account, no booking fee, no commission. It shows no ads and has no affiliate or referral links: FlyCiter is a non-commercial project.

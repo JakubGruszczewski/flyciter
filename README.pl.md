@@ -98,6 +98,8 @@ Loty kosztują razem 468 zł. Pod odcinkiem Walencja–Barcelona jest linia w ra
 
 Nie trzeba nic instalować. Strona działa w przeglądarce telefonu, w trybie jasnym i ciemnym, w siedmiu językach (polski, angielski, niemiecki, francuski, hiszpański, włoski, ukraiński) i z cenami w PLN, EUR, GBP, USD lub CHF. **Udostępnij** przy podróży kopiuje link do niej, opis z biletami albo obrazek w formie pocztówki, który można wkleić na czacie.
 
+<img src="screenshots/pl/pocztowka-krakow-bordeaux.png" width="480" alt="Pocztówka FlyCiter z weekendu Kraków–Bordeaux: mapa Europy z trasą przez Rzym i Marsylię, znaczek Bordeaux z datą 5 grudnia 2026, wszystkie loty i FlixBus między lotniskami Rzymu z godzinami i cenami, 104 € za loty plus cena easyJet oraz kod QR otwierający ofertę.">
+
 ## Czego FlyCiter nie robi
 
 **Nie sprzedaje biletów.** Każdy przycisk rezerwacji prowadzi na stronę przewoźnika albo FlixBusa i tam kupujesz bilet na jego warunkach. Bez konta, opłat i prowizji. Strona nie wyświetla reklam i nie ma linków partnerskich ani afiliacyjnych: FlyCiter to projekt niekomercyjny.
